@@ -1,0 +1,236 @@
+{
+  "leaderboard_1_performance": [
+    {
+      "name": "Pranjal Kamra",
+      "channel": "Finology",
+      "composite_score": 70.0,
+      "avg_alpha": 50.25,
+      "sortino_ratio": 4.1,
+      "hit_rate": 40.68,
+      "downside_5th_pctile": -37.97,
+      "bullish_calls": 59,
+      "total_calls": 196,
+      "multibaggers": 10,
+      "multibaggers_pct": 16.9,
+      "avg_bullish_return": 63.62,
+      "sub_scores": {
+        "alpha_score": 100.0,
+        "risk_score": 100.0,
+        "hit_score": 0.0,
+        "downside_score": 100.0,
+        "sample_score": 0.0
+      },
+      "rank": 1
+    },
+    {
+      "name": "Sai Krishna Patri",
+      "channel": "Money Purse (Sunday Show)",
+      "composite_score": 63.6,
+      "avg_alpha": 30.38,
+      "sortino_ratio": 2.86,
+      "hit_rate": 48.22,
+      "downside_5th_pctile": -51.93,
+      "bullish_calls": 1095,
+      "total_calls": 1995,
+      "multibaggers": 218,
+      "multibaggers_pct": 19.9,
+      "avg_bullish_return": 53.51,
+      "sub_scores": {
+        "alpha_score": 56.3,
+        "risk_score": 66.8,
+        "hit_score": 100.0,
+        "downside_score": 0.0,
+        "sample_score": 100.0
+      },
+      "rank": 2
+    },
+    {
+      "name": "CA Rachana Ranade",
+      "channel": "CA Rachana Ranade",
+      "composite_score": 30.3,
+      "avg_alpha": 11.76,
+      "sortino_ratio": 0.65,
+      "hit_rate": 47.45,
+      "downside_5th_pctile": -48.3,
+      "bullish_calls": 255,
+      "total_calls": 728,
+      "multibaggers": 19,
+      "multibaggers_pct": 7.5,
+      "avg_bullish_return": 10.5,
+      "sub_scores": {
+        "alpha_score": 15.4,
+        "risk_score": 7.8,
+        "hit_score": 89.8,
+        "downside_score": 26.0,
+        "sample_score": 18.9
+      },
+      "rank": 3
+    },
+    {
+      "name": "Akshay Srivastava",
+      "channel": "Akshat Shrivastava",
+      "composite_score": 20.9,
+      "avg_alpha": 4.74,
+      "sortino_ratio": 0.36,
+      "hit_rate": 46.11,
+      "downside_5th_pctile": -48.62,
+      "bullish_calls": 360,
+      "total_calls": 693,
+      "multibaggers": 16,
+      "multibaggers_pct": 4.4,
+      "avg_bullish_return": 6.34,
+      "sub_scores": {
+        "alpha_score": 0.0,
+        "risk_score": 0.0,
+        "hit_score": 72.0,
+        "downside_score": 23.7,
+        "sample_score": 29.1
+      },
+      "rank": 4
+    }
+  ],
+  "leaderboard_2_research_quality": [
+    {
+      "name": "Pranjal Kamra",
+      "channel": "Finology",
+      "composite_score": 91.7,
+      "valuation_discipline": 9.4,
+      "forensic_accounting": 9.2,
+      "governance_awareness": 9.5,
+      "thesis_accuracy": 8.7,
+      "evidence_rigor": 8.8,
+      "summary": "Exceptional margin-of-safety valuation discipline, Buffett-style business moats, and fierce corporate governance scrutiny. Rejects speculative momentum.",
+      "rank": 1
+    },
+    {
+      "name": "CA Rachana Ranade",
+      "channel": "CA Rachana Ranade",
+      "composite_score": 90.0,
+      "valuation_discipline": 8.8,
+      "forensic_accounting": 9.6,
+      "governance_awareness": 9.1,
+      "thesis_accuracy": 8.4,
+      "evidence_rigor": 9.0,
+      "summary": "Gold standard in forensic accounting, working-capital audits, and cash-flow vs PAT reconciliation. Unmatched financial statement diagnostics.",
+      "rank": 2
+    },
+    {
+      "name": "Sai Krishna Patri",
+      "channel": "Money Purse (Sunday Show)",
+      "composite_score": 85.3,
+      "valuation_discipline": 8.1,
+      "forensic_accounting": 8.4,
+      "governance_awareness": 8.5,
+      "thesis_accuracy": 8.9,
+      "evidence_rigor": 9.3,
+      "summary": "Unrivalled coverage breadth, industrial/manufacturing capex catalyst identification, and rigorous weekly Sunday Q&A timestamp auditability.",
+      "rank": 3
+    },
+    {
+      "name": "Akshay Srivastava",
+      "channel": "Akshat Shrivastava",
+      "composite_score": 77.1,
+      "valuation_discipline": 7.2,
+      "forensic_accounting": 7.6,
+      "governance_awareness": 7.8,
+      "thesis_accuracy": 7.7,
+      "evidence_rigor": 9.1,
+      "summary": "Top-tier macro thematic analysis and global platform TAM storytelling; lower margin-of-safety filter with higher tolerance for frothy multiples.",
+      "rank": 4
+    }
+  ],
+  "analyst_stats": {
+    "Sai Krishna Patri": {
+      "name": "Sai Krishna Patri",
+      "channel": "Money Purse (Sunday Show)",
+      "style": "Micro/Mid-Cap Discovery & Industrial Capex Specialist",
+      "total_calls": 1995,
+      "views_breakdown": {
+        "Positive": 1257,
+        "Neutral": 542,
+        "Negative": 196
+      },
+      "priced_calls": 1687,
+      "bullish_priced_calls": 1095,
+      "avg_bullish_return": 53.51,
+      "median_bullish_return": 7.31,
+      "avg_alpha": 30.38,
+      "median_alpha": -2.65,
+      "hit_rate": 48.22,
+      "downside_5th_pctile": -51.93,
+      "multibaggers_count": 218,
+      "multibaggers_pct": 19.9,
+      "sortino_ratio": 2.86,
+      "active_years": "2021-2026"
+    },
+    "Akshay Srivastava": {
+      "name": "Akshay Srivastava",
+      "channel": "Akshat Shrivastava",
+      "style": "Macro Thematic, Tech Moats & Platform Aggregators",
+      "total_calls": 693,
+      "views_breakdown": {
+        "Positive": 486,
+        "Neutral": 142,
+        "Negative": 65
+      },
+      "priced_calls": 509,
+      "bullish_priced_calls": 360,
+      "avg_bullish_return": 6.34,
+      "median_bullish_return": -1.52,
+      "avg_alpha": 4.74,
+      "median_alpha": -2.63,
+      "hit_rate": 46.11,
+      "downside_5th_pctile": -48.62,
+      "multibaggers_count": 16,
+      "multibaggers_pct": 4.4,
+      "sortino_ratio": 0.36,
+      "active_years": "2023-2026"
+    },
+    "Pranjal Kamra": {
+      "name": "Pranjal Kamra",
+      "channel": "Finology",
+      "style": "Deep Value, Moat Monopoly & Governance Purist",
+      "total_calls": 196,
+      "views_breakdown": {
+        "Positive": 83,
+        "Neutral": 83,
+        "Negative": 30
+      },
+      "priced_calls": 147,
+      "bullish_priced_calls": 59,
+      "avg_bullish_return": 63.62,
+      "median_bullish_return": -1.61,
+      "avg_alpha": 50.25,
+      "median_alpha": -4.0,
+      "hit_rate": 40.68,
+      "downside_5th_pctile": -37.97,
+      "multibaggers_count": 10,
+      "multibaggers_pct": 16.9,
+      "sortino_ratio": 4.1,
+      "active_years": "2021-2026"
+    },
+    "CA Rachana Ranade": {
+      "name": "CA Rachana Ranade",
+      "channel": "CA Rachana Ranade",
+      "style": "Forensic Accounting, Balance Sheet Scrutiny & Bluechips",
+      "total_calls": 728,
+      "views_breakdown": {
+        "Positive": 403,
+        "Neutral": 259,
+        "Negative": 66
+      },
+      "priced_calls": 457,
+      "bullish_priced_calls": 255,
+      "avg_bullish_return": 10.5,
+      "median_bullish_return": -4.88,
+      "avg_alpha": 11.76,
+      "median_alpha": -1.71,
+      "hit_rate": 47.45,
+      "downside_5th_pctile": -48.3,
+      "multibaggers_count": 19,
+      "multibaggers_pct": 7.5,
+      "sortino_ratio": 0.65,
+      "active_years": "2021-2026"
+    }
+  }
+}

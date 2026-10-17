@@ -1,0 +1,1405 @@
+[
+  {
+    "key": "IREDA",
+    "ticker": "IREDA",
+    "company": "IREDA (Indian Renewable Energy Development Agency)",
+    "sector": "Automotive & EV",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Akshay Srivastava",
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": -27.59,
+    "avg_alpha": -31.35,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Mentioned alongside REC and PFC as part of the lending institutions that experienced stock price drops following the RBI draft guidelines on project finance."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Spiked from 64 to 209 without fundamental support, currently getting crushed. Described as gambling rather than fundamental investing."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The stock has corrected significantly by 62% from ₹284 to ₹16, bringing its Price to Book multiple down from 8.9x to 2.17x, which the host now considers comfortable. The renewable energy sector is set for good growth, with India targeting 500 GW of non-fossil fuel capacity by 2030 (from current 297 GW). This capacity addition will drive demand for loans, benefiting IREDA as a pure-play renewable energy lender. A key catalyst is the ongoing merger of REC and PFC, which might temporarily impact their business, creating a 'very big opportunity' for IREDA to aggressively capture market share in lending to renewable energy projects."
+      }
+    ]
+  },
+  {
+    "key": "RECLTD",
+    "ticker": "RECLTD",
+    "company": "REC Limited",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 29.97,
+    "avg_alpha": 25.49,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Fallen by almost 54% from its all-time high and trades below book value. While power sector disbursements grew at 23.8% YoY in Q1 FY27, REC's loan growth was only around 1% due to rising competition from regular banks and NBFCs offering competitive rates, and heavy prepayments (e.g. 1.9 lakh crores of repayments vs 2.11 lakh crores of disbursements in FY26). On the positive side, gross NPAs and net NPAs have dropped to historical lows (GNPA at 0.23%, NNPA at 0.11%), improving asset quality. However, low NPAs mean future earnings upgrades won't come from credit cost reversals anymore, depending purely on core loan growth at good margins. A proposed merger with PFC involves an exchange ratio of 88 PFC shares for every 100 REC shares, combining into an 11+ lakh crore loan book, though it requires regulatory approvals and doesn't automatically solve industry competition or accelerate loan growth."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The broader renewable energy sector growth (target of 500 GW by 2030) is generally positive for all power sector lenders, including REC. However, the host highlights that REC's ongoing merger with PFC might lead to business impacts, potentially creating a short-term advantage for competitors like IREDA."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Stock price has run up 45 times from 2022 levels without revenues or profits growing 45 times, making it significantly overvalued."
+      }
+    ]
+  },
+  {
+    "key": "HFCL",
+    "ticker": "HFCL",
+    "company": "HFCL Ltd.",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 125.79,
+    "avg_alpha": 128.31,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Mentioned as part of the ecosystem of telecom and electronic product makers that can serve as customers for semiconductor chips."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "HFCL recently increased its guidance from 40% to 60% during an Arihant conference, indicating positive short-term prospects. However, the host views HFCL (and Sterlite Technologies, mentioned as a similar case) as a highly cyclical, commodity-based stock whose current abnormal growth and price rally are driven by temporary market shortages. The host warns that as global capacities for similar products (optical fiber cables, etc.) are being added and go live, the demand-supply imbalance will normalize, leading to price corrections and a reversal in stock prices. This is not considered a long-term investment. The host stresses the importance of being ready to 'jump out' (exit) at any moment, and that waiting for external advice to exit such cyclical stocks is impractical and risky, especially after a significant rally."
+      }
+    ]
+  },
+  {
+    "key": "APOLLO",
+    "ticker": "APOLLO",
+    "company": "Apollo Micro Systems Ltd.",
+    "sector": "IT & Digital Services",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 162.94,
+    "avg_alpha": 167.73,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Small cap defense OEM specializing in designing and manufacturing high-performance solutions across avionics, aerospace, naval systems, satellites, and homeland security. 100% of revenue comes domestically from India with nil export revenue, eliminating foreign currency risks. Secured prestigious make-to projects from the Indian Army and public sector clients like IOCL (low default probability). Fixed asset expansion is occurring and the stock has cooled off and consolidated, offering a better setup if bought at reasonable prices."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Apollo Micro Systems is acquiring Premier Explosives, which has significant capabilities in missile programs (Akash, MR-SAM, LR-SAM, Brahmos, Astra, Agni) that are currently in production stage. This acquisition is seen as a major advantage for Apollo, as it gains entry into various projects and enhances its capabilities, which should significantly aid its growth. Apollo's management is characterized as aggressive, with the next generation of promoters already involved, suggesting a strong drive for business expansion. The host believes Apollo management has the potential to grow Premier's business very well, benefiting the acquiring company."
+      }
+    ]
+  },
+  {
+    "key": "PARAS",
+    "ticker": "PARAS",
+    "company": "Paras Defence and Space Technologies Ltd.",
+    "sector": "IT & Digital Services",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 50.31,
+    "avg_alpha": 47.74,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Beneficiary of defense sector r&d opening, domestic procurement allocation, and make in india initiatives announced in the budget."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The host believes the stock's ride has 'just started' despite a 60% profit for the viewer. This is based on a recent major order, which the host deduces is from Hindustan Aeronautics Limited (HAL) for wing structure and central fuselage related to the Tejas fighter aircraft. Successful execution of this order is expected to build confidence among global OEMs (Original Equipment Manufacturers), opening doors for more global orders. The host suggests watching how aggressively management can grow the company beyond this initial order, seeing this as the beginning of a larger growth phase."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Added to India's defense and space capabilities post-IPO. However, the fundamental improvement in terms of revenue and profit growth has hardly come, making it a pure sentiment-driven stock with a 4X-5X price jump. Almost 16% of its business comes from international/abroad markets, introducing foreign currency and export risks."
+      }
+    ]
+  },
+  {
+    "key": "ZOMATO",
+    "ticker": "ZOMATO",
+    "company": "Zomato Ltd.",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Akshay Srivastava",
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Positive",
+      "Pranjal Kamra": "Neutral",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": null,
+    "avg_alpha": null,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Zomato is a company growing really well in terms of sales, able to expand its revenues rapidly (e.g., from 1,000 crores to 1,500 crores). However, the company faces significant margin compression because as people move down the K-shaped economy chain, they become price-conscious and switch between platforms (like Swiggy and Zomato) based on discounts, leading to a structural issue where companies print revenues but are unable to grow profits really fast."
+      },
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Discussed under the corporate name Eternal Limited. The company has four key business segments: Food Delivery, Hyperpure, Quick Commerce (Blinkit), and Going Out. Key growth drivers include strong financial performance in Q3 FY26 with consolidated revenue growing 200% YoY to Rs 16,315 crore, adjusted EBITDA reaching Rs 364 crore, and net profit jumping 73% YoY to Rs 12 crore. Blinkit experienced a massive boom with revenue growing 155% YoY, and added 211 net new stores in Q3 with a total of 2,027 stores, remaining on track for 3,000 stores by March 2027. Additionally, three out of four segments became EBITDA positive at an adjusted EBITDA level in Q3 FY26. Risks and reasons for recent ~40% correction from all-time highs include an extremely high PE ratio (peaking at 183 and remaining very high even after correction), intensive competition in quick commerce leading to high discounts, an LPG crisis causing supply shortages for restaurants and impacting orders, leadership transition with Deepinder Goyal resigning as CEO and Albinder Dhindsa taking charge of Blinkit, and reduction in weightage in global indices leading to passive outflows."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Used as an example, the stock witnessed a massive re-rating when the company transitioned from being loss-making to profitable, indicating that achievement of profitability can be a significant catalyst for stock price appreciation."
+      }
+    ]
+  },
+  {
+    "key": "PAYTM",
+    "ticker": "PAYTM",
+    "company": "One97 Communications Ltd (Paytm)",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Neutral",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Neutral"
+    },
+    "avg_return": 146.01,
+    "avg_alpha": 138.49,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Described historically as almost a Chinese company backed by foreign money in the previous funding cycle, representing the venture capital/series A funding model where foreign money came in before IPOs."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Mentioned as an example of a massive mega-IPO whose historical performance and listing day gains were poor due to excessive liquidity suction and lack of post-listing buyers."
+      }
+    ]
+  },
+  {
+    "key": "MAXHEALTH",
+    "ticker": "MAXHEALTH",
+    "company": "Max Healthcare Institute Ltd.",
+    "sector": "Pharma & Healthcare",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 13.6,
+    "avg_alpha": 10.98,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Hospitals and insurance are much better bets in India compared to mature American markets. They act as buy-and-forget type of stocks in India. The speaker mentions sitting on 100% plus profits without selling or trading."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Currently trading at peak valuations, making it difficult to anticipate solid returns for new investments. While it carries low risk, the potential for future returns is also low given the current pricing."
+      }
+    ]
+  },
+  {
+    "key": "MAZDOCK",
+    "ticker": "MAZDOCK",
+    "company": "Mazagon Dock Shipbuilders Limited",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 124.81,
+    "avg_alpha": 119.13,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Plays a vital role in building warships, destroyers, frigates, and submarines. Positioned to benefit from defense activities and warfare conducted through waterways."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Identified as a PSU in the shipbuilding sector with existing full order books from defense. The new government policy, which includes mandatory 30% domestic value addition for components, 9,900 Cr + 8,000 Cr allocation for expansion, and mandatory procurement of 110 ships by Indian oil and gas PSUs, is expected to create a massive opportunity for the entire shipbuilding ecosystem, including these large companies. The speaker suggests focusing on their suppliers, especially those in electronics and technology, for significant returns."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Discussed as trading at all-time highs and peak P/E multiples despite fundamentals not dramatically scaling to match the massive 5x stock price run-up; flagged as vulnerable to debt and correction."
+      }
+    ]
+  },
+  {
+    "key": "SPICEJET",
+    "ticker": "SPICEJET",
+    "company": "SpiceJet",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Neutral",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": null,
+    "avg_alpha": null,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "SpiceJet recently raised funds through a QIP, which is helping to reduce its borrowings. Promoter Ajay Singh aims to increase the airline's fleet size to 100 carriers, and additions are already underway. The aviation segment in India has strong demand and significant growth potential, as evidenced by crowded airports. If SpiceJet can successfully clear its balance sheet, survive the current challenges, and significantly increase its carrier count, its numbers could show substantial improvement. The management's strategy of focusing on religious tourism destinations, which have high demand in certain seasons, is also seen as a positive move to capitalize on growth opportunities and charge higher prices. However, it is highlighted as a high-risk, high-reward stock, suitable only for investors comfortable with significant risk and long-term holding without short-term anxiety, and not for those who worry about short-term price drops. IndiGo is suggested as a better alternative for less risky investors."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Overall financial health and business situation are not in good shape within a brutal airline industry."
+      }
+    ]
+  },
+  {
+    "key": "VSTIND",
+    "ticker": "VSTIND",
+    "company": "VST Industries",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": -19.43,
+    "avg_alpha": -10.79,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Tobacco products facing higher proposed 40% GST slab structure once notified."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The company's cigarette business is experiencing slight de-growth, mentioned in contrast to Godfrey Phillips' market share gains."
+      }
+    ]
+  },
+  {
+    "key": "CANBK",
+    "ticker": "CANBK",
+    "company": "Canara Bank",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava",
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 82.62,
+    "avg_alpha": 74.93,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Part of the public sector bank theme, but government capex and public expenditure growth rate needs to rationalize or stabilize."
+      },
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Acts as a major promoter holding 51% stake in Canara HSBC Life Insurance and is the fourth largest public sector entity/bank in India by total assets. Serves as the primary source of bank assurance, accounting for 72.52% of the weighted premium income for the life insurance company, though it is participating in a 100% OFS to offload its stake."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Canara Bank is highlighted as one of the PSU banks with very good management. It is trading at an attractive valuation, below one-time book value. Following RBI rate cuts, large banks are aggressively cutting deposit rates, while lending rates are not decreasing as aggressively. This differential is expected to positively impact profitability due to their large book sizes. The speaker believes the market has not yet fully priced in these positive impacts, suggesting a lot of further run-up potential, especially for larger banks. Investors are advised not to rush to book profits."
+      }
+    ]
+  },
+  {
+    "key": "RVNL",
+    "ticker": "RVNL",
+    "company": "Rail Vikas Nigam Limited",
+    "sector": "Capital Goods & Defence",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Neutral"
+    },
+    "avg_return": -35.58,
+    "avg_alpha": -34.79,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Discussed as part of the railway sector. Noted for exhibiting strong pre-budget rallies in past years (e.g., nearly 50% in 2024, 11-12% in 2025). Stock performance is closely linked to government capex announcements for Indian railways."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Discussed as an example of a sentiment-driven rally where the stock price has run up drastically (e.g., from 33 rupees to 320 rupees, nearly 10 times) while the fundamental performance (revenues and net profits) has not aligned with the massive stock price growth. The speaker cautions that the probability of falling is much higher and investors could get stuck for 10-15 years."
+      }
+    ]
+  },
+  {
+    "key": "TATAELXSI",
+    "ticker": "TATAELXSI",
+    "company": "Tata Elxsi",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Pranjal Kamra",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "Pranjal Kamra": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -36.88,
+    "avg_alpha": -61.22,
+    "bull_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Positioned strongly in the software and IoT technology stack required for modern connected and autonomous electric vehicles."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Identified as a past 'multi-bagger' that delivered 'very good return' for the speaker. Success was attributed to investing in companies with a large Total Addressable Market (TAM), good entry valuation, and being picked when the market was ignoring it or had a negative perception. The company had a strong balance sheet."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Profits have been consistently increasing and EPS has been growing. The stock experienced a temporary dip because a famous PMS fund manager sold shares, presenting an undervalued swing trading opportunity. Macro tailwinds like interest rate cuts heavily benefit asset-light IT and tech services companies."
+      }
+    ]
+  },
+  {
+    "key": "RADICO",
+    "ticker": "RADICO",
+    "company": "Radico Khaitan",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 247.77,
+    "avg_alpha": 229.99,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The company is consistently identified as one of the 'top-most companies' in the liquor industry, indicating an established and strong position. However, no specific recent growth drivers or future catalysts were discussed."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Classified under the alcohol sector which could face increased competitive pressure and negative impact if trade barriers with the US are removed."
+      }
+    ]
+  },
+  {
+    "key": "TRENT",
+    "ticker": "TRENT",
+    "company": "Trent Ltd",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Neutral",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -4.52,
+    "avg_alpha": -10.44,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Trent's brand Zudio had a significant first-mover advantage, widespread national presence, and established consumer mindshare, which drove substantial stock price growth in the past. The management is strong, continuously introducing new products and evolving into new market segments based on trends. While the solo growth enjoyed by Zudio will be tempered by increasing competition (from players like Style Up, Style Union, and Snitch), Trent, as a fundamentally strong company with proactive management, is expected to deliver consistent growth over the long term. However, the multi-bagger returns seen in the past few years, driven by Zudio's solo success, might not be replicated if there are no new 'surprise elements' or new high-growth segments identified by management."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Mentioned as an example of a stock that experienced a lot of euphoria followed by a massive correction, dropping almost 50% from its peak due to valuation realities."
+      }
+    ]
+  },
+  {
+    "key": "OLAELEC",
+    "ticker": "OLAELEC",
+    "company": "Ola Electric Mobility",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava",
+      "CA Rachana Ranade",
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Negative",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -46.17,
+    "avg_alpha": -41.64,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Many positives are expected in the next 2-3 years. The lithium cell Gigafactory is going live soon, which is crucial as the battery is a major expense for their EV products, and this will improve margins. Future capacity expansion in the Gigafactory could allow them to sell cells externally, generating additional revenue. The recent launch of vehicles targeted at gig workers (e.g., Zomato, Blinkit, Ola drivers) is a strategic move, as these workers prioritize cost-effectiveness and vehicle aesthetics; this focus is expected to lead to significant sales improvement. If the company transitions from loss-making to profitability, similar to Zomato's re-rating, the stock could see substantial re-rating. They are launching EV 3-wheelers next year and are reportedly working on EV 4-wheelers. Aggressive pricing and marketing strategies are also expected to drive sales numbers."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Service quality is not there, viewed as primarily an IPO pump game that has played out; buying Ola electric type of companies still does not make any sense."
+      },
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Pure-play EV player in India building vertically integrated technology and manufacturing capabilities for EVs and components including cells, battery packs, motors, and vehicle frames at the Ola Future Factory. Operates in the d2c category with 700+ experience centers and 400+ service centers. India is the second-largest two-wheeler market globally with demand recovering towards pre-covid levels. Government PLI schemes provide tailwinds. Strong focus on R&D with 304 patents in India and 959 R&D employees. However, severe risks include: continuous net losses and negative cash flows from operations since inception, limited operating history with no assurance of future profitability or cost-effectiveness, heavy dependence on government PLI incentives, high employee attrition rate (44% and 47% in FY24 and FY23 respectively), lack of a completed full warranty cycle to assess battery deterioration rates, and rising extended warranty claims (from 0.05% to 0.16%). Revenue grew from 3,734 million to 50,000+ million, but loss before tax widened significantly from 7,800+ million to 15,800+ million. High industry P/E of 41.37 makes peer comparison difficult."
+      },
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Driven primarily by hyped narratives and overpromising on scientific breakthroughs, innovations, and scale across multiple distinct sectors (cabs, e-scooters, AI, maps) while failing on actual ground execution."
+      }
+    ]
+  },
+  {
+    "key": "LICI",
+    "ticker": "LICI",
+    "company": "Life Insurance Corporation of India (LIC)",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "CA Rachana Ranade",
+      "Pranjal Kamra",
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Negative",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": -10.44,
+    "avg_alpha": -20.61,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Revenues, net profits, and EPS have grown positively since its IPO, while the stock price has only given an 11% run-up over 3 years, making it an undervalued candidate where it makes sense to build positions."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Individual life insurance policy GST reduced from 18% to 0%, but input tax credit (ITC) is removed, resulting in a mixed financial impact for insurers."
+      },
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Cited as an example of a past massive Indian IPO that underperformed and disappointed investors after its launch."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Speaker warns against social media tactics/FOMO regarding the supposed closure of high-return LIC policies. Emphasizes that traditional endowment/savings policies yield very low returns of 5-6% that barely beat inflation. Recommends pure term insurance over locking capital into low-yielding traditional insurance products."
+      }
+    ]
+  },
+  {
+    "key": "MAHABANK",
+    "ticker": "MAHABANK",
+    "company": "Bank of Maharashtra",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 69.92,
+    "avg_alpha": 57.92,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Diversified product portfolio catering to retail, agriculture, MSME, and corporate sectors. Strong fundamental and quantitative metrics: advances grew by 29.49% YoY, operating profit increased by 57.36% YoY, net profit surged 136.48% YoY, ROA stands at 1.32%, and Roe at 26.32%. Excellent asset quality with gross and net NPAs in a decreasing trend (net NPA at 0.25%), high provision coverage ratio (PCR) at 98.28%, low cost-to-income ratio at 38.34%, and strong capital adequacy ratio at 18.14%."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The stock surged following the appointment of a new CEO, but the speaker advises caution as current valuations appear fully priced in rather than undervalued. Investors should wait and observe whether the new CEO's strategies successfully deliver actual business growth."
+      }
+    ]
+  },
+  {
+    "key": "BPCL",
+    "ticker": "BPCL",
+    "company": "Bharat Petroleum Corporation Limited (BPCL)",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 31.19,
+    "avg_alpha": 16.14,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "While OMCs (Oil Marketing Companies) like BPCL often appear attractive in terms of valuation, there is a continuous and significant risk from government decisions, particularly regarding petrol and diesel price cuts. Such interventions directly impact profitability, as demonstrated by recent stock falls following price cut announcements. These stocks are considered more suitable for cyclical trading rather than long-term wealth creation due to this inherent government policy risk."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Downstream oil marketing company facing margin pressure due to escalating crude oil prices as raw material costs increase. Sentiment could see temporary relief if retail fuel prices are hiked or government provides further fiscal cushions."
+      }
+    ]
+  },
+  {
+    "key": "IOC",
+    "ticker": "IOC",
+    "company": "Indian Oil Corporation (IOCL)",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Positive",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 95.86,
+    "avg_alpha": 64.97,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Listed among issuers of debt instruments held in liquid fund portfolios with secure A1 credit ratings."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "While OMCs (Oil Marketing Companies) like IOC often appear attractive in terms of valuation, there is a continuous and significant risk from government decisions, particularly regarding petrol and diesel price cuts. Such interventions directly impact profitability, as demonstrated by recent stock falls following price cut announcements. These stocks are considered more suitable for cyclical trading rather than long-term wealth creation due to this inherent government policy risk."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "The company has over 1.16 lakh crore rupees in debt and massive interest expenses, yet continues to distribute high dividends funded by debt instead of using the cash to pay off liabilities and reduce interest burdens. This capital allocation strategy destroys net worth and suppresses long-term share price appreciation."
+      }
+    ]
+  },
+  {
+    "key": "PNB",
+    "ticker": "PNB",
+    "company": "Punjab National Bank (PNB)",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Neutral",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 59.39,
+    "avg_alpha": 48.57,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Part of the public sector bank theme that was played successfully in the past, but going forward government spending growth rate is expected to slow down."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Market capitalization expanded from Rs 38,000 crore to Rs 1,36,000 crore as valuations re-rated from 0.61x to 1.3x Price-to-Book value. The valuation gap between PSU banks and private sector banks has largely narrowed, limiting further sharp upside."
+      }
+    ]
+  },
+  {
+    "key": "BANKBARODA",
+    "ticker": "BANKBARODA",
+    "company": "Bank of Baroda",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava",
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Pranjal Kamra",
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Positive",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 85.69,
+    "avg_alpha": 69.0,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Part of the public sector bank theme, but heavy capex themes are facing slower growth rate concerns."
+      },
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Outperformed both Nifty and the PSU Bank index during the analyzed time frame (September to December), showing relative strength with an upward move of almost 20%."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Pranjal avoids all Public Sector Undertakings (PSUs) as a principle, stating government involvement in commercial banking leads to inefficient capital use, competition in prime retail real estate, and potential losses from scams absorbed by taxpayers."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Market capitalization grew from Rs 38,000 crore to Rs 1,36,000 crore following a re-rating from 0.5x to 1.3x Price-to-Book, erasing its historical valuation discount relative to private sector peers."
+      }
+    ]
+  },
+  {
+    "key": "IRFC",
+    "ticker": "IRFC",
+    "company": "Indian Railway Finance Corporation",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Akshay Srivastava",
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 25.24,
+    "avg_alpha": 16.66,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Covered within the railway stock basket analysis, evaluating historical pre-and-post budget returns tied to budgetary allocations for railway infrastructure and capital expenditure."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Stock surged from 31 to 217 rupees (7x) while profits and revenues only doubled. The valuation does not make fundamental sense and is driven by public sector regulatory themes rather than earnings growth."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Highlighted as an example of railway PSU stocks with low float that are experiencing 'clear manipulation' and 'bubble-like' valuations. The speaker warns that earnings for the next 10 years are already priced in, and the low float makes it easy for manipulators to drive prices up. Many retail investors are entering without understanding basic fundamentals (e.g., using P/E instead of P/B for NBFCs). The bubble is expected to burst, potentially leaving investors stuck at high prices."
+      }
+    ]
+  },
+  {
+    "key": "TATASTEEL",
+    "ticker": "TATASTEEL",
+    "company": "Tata Steel",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 80.05,
+    "avg_alpha": 57.22,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Discussed as a key player providing raw materials like steel for tracks and infrastructure expansion."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The high P/E ratio (27.55) observed is misleading because the company booked a large exceptional loss in the last quarter, which significantly impacted its earnings per share (EPS), thereby inflating the P/E multiple. For cyclical stocks like steel/commodity companies, the ideal entry point is when earnings and margins are at their lowest (appearing expensive based on P/E due to low earnings). The ideal exit point is when earnings and margins are at their peak (P/E might appear in single digits)."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Commodity stock where China demand is low and government spending is expected to slow down after elections. Do not see massive prospects for owning commodity stocks over a six-month view."
+      }
+    ]
+  },
+  {
+    "key": "ALKYLAMINE",
+    "ticker": "ALKYLAMINE",
+    "company": "Alkyl Amines Chemicals Ltd.",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -30.84,
+    "avg_alpha": -53.33,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Assigned as part of a 7-stock technical homework exercise for viewers to evaluate charts and determine if recent price action represents a valid breakout or a fakeout based on the 7-pointer checklist."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Acknowledged as a proven long-term wealth creator despite recent performance consolidation, making it a good candidate for long-term accumulation."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Specialty chemical player with high profit margins due to manufacturing specialized low-volume, high-margin chemical products."
+      }
+    ]
+  },
+  {
+    "key": "HAL",
+    "ticker": "HAL",
+    "company": "HAL (Hindustan Aeronautics Ltd)",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 144.11,
+    "avg_alpha": 136.91,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Discussed as part of the defence sector theme update for Q4 results. Management commentary highlighted that execution remained stable despite supply chain issues, with strong deliveries of engines and helicopters. The company boasts an extremely strong order book providing revenue visibility of 7 to 8 years, and is focusing on capacity expansion and backward integration. YoY revenue growth stood at 4.1%. Also highlighted as a major stock in the Nifty India Defence Index holding significant weightage."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Strong growth prospects backed by favorable defense sector tailwinds and strong multi-year government order outlook."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Profits/revenues have grown by around 3.5x to 4x since 2019, while the stock price went up 10x before correcting by about 40% from its peak, raising questions about whether it is a sensible purchase at current valuations."
+      }
+    ]
+  },
+  {
+    "key": "TECHM",
+    "ticker": "TECHM",
+    "company": "Tech Mahindra",
+    "sector": "IT & Digital Services",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 54.71,
+    "avg_alpha": 28.1,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Considered a 'better play' and a 'good theme to play' for long-term investment, despite potential 'short-term pain' expected for one to three years in the sector."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Faced historical PEs in the 30s (even up to 35) which have been de-rated down along with the broader IT sector due to AI-led disruption and single-digit sales and profit growth."
+      }
+    ]
+  },
+  {
+    "key": "POLYCAB",
+    "ticker": "POLYCAB",
+    "company": "Polycab India Limited",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Neutral",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 222.54,
+    "avg_alpha": 195.84,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The speaker views it as a 'damn good company' for long-term investment."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Although sales and profits doubled from 2020, the stock price surged nearly 6 times, leading to an overstretched valuation (P/E near 54-55). Recent IT department raids uncovering tax/black money issues create severe corporate governance risks and valuation correction downside."
+      }
+    ]
+  },
+  {
+    "key": "BALKRISIND",
+    "ticker": "BALKRISIND",
+    "company": "Balkrishna Industries",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 2.6,
+    "avg_alpha": -30.4,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Balkrishna Industries is a specialty tire manufacturer, focusing on off-highway tires, where it is a global market leader in its niche. The company has a strong export focus and benefits from global agricultural and infrastructure growth, maintaining good margins and financial performance."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Completely exited by Parag Parikh Flexi Cap Fund, selling its entire holding of 22.74 lakh shares, reducing the total number of stocks in the fund's Indian equity portfolio from 33 to 32."
+      }
+    ]
+  },
+  {
+    "key": "RELAXO",
+    "ticker": "RELAXO",
+    "company": "Relaxo Footwares Limited",
+    "sector": "Consumer & Retail",
+    "bulls": [
+      "Pranjal Kamra",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Neutral",
+      "Pranjal Kamra": "Positive",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -67.62,
+    "avg_alpha": -91.45,
+    "bull_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Discussed as a prime example of strong performance where the stock delivered a 36% return over a 5-year period due to both earnings growth and significant PE multiple expansion (PE expanding from around 34 to nearly 100), unlike other slower-expanding FMCG peers."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "A strong consumption play with a good business model, making it suitable for long-term investment."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Growth prospects are limited; company is trying to pivot from low-value products to high-value products with significant business uncertainty and execution risk regarding how soon they can build it."
+      }
+    ]
+  },
+  {
+    "key": "HPCL",
+    "ticker": "HPCL",
+    "company": "HPCL",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": null,
+    "avg_alpha": null,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Being a Public Sector Undertaking (PSU), it faces margin pressure due to rising crude oil prices. Government intervention in pricing further restricts its ability to pass on costs, leading to a negative outlook for oil marketing companies in the current environment."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Downstream oil marketing company whose primary raw material is crude oil. Rising crude oil prices put pressure on profit margins. However, potential upside may come from excise duty cuts, burden sharing by upstream companies, or potential price hikes in petrol and diesel, though overall fundamental sentiment remains pressurized."
+      }
+    ]
+  },
+  {
+    "key": "VEDL",
+    "ticker": "VEDL",
+    "company": "Vedanta",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Neutral",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 3.76,
+    "avg_alpha": -5.29,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Expected to show good growth in the long term, implying benefits from the commodity cycle."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "While the demand for copper is going up and Vedanta is growing because of that, it is a commodity business with high debt. If there is a bad credit cycle or general economic slowdown, highly levered companies face massive risks. Debt can create or destroy wealth, making these high-risk, high-reward stocks that should be avoided right now."
+      }
+    ]
+  },
+  {
+    "key": "ADANIENT",
+    "ticker": "ADANIENT",
+    "company": "Adani Enterprises Ltd",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Neutral",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 74.02,
+    "avg_alpha": 56.71,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Buy recommendation around ₹1400."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Commanding an absolute crazy P/E ratio of 80+ for a large-cap infrastructure play, driven mostly by sentiment."
+      }
+    ]
+  },
+  {
+    "key": "KIOCL",
+    "ticker": "KIOCL",
+    "company": "IOCL",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": 13.41,
+    "avg_alpha": -0.38,
+    "bull_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The company is available at very cheap and attractive valuations. While growth timing is uncertain, privatization initiatives by the government could serve as a significant catalyst. The speaker expects good growth if a strong new promoter takes over, drawing parallels to the rally seen in Hindustan Zinc after Vedanta's acquisition. Additionally, these oil marketing companies are venturing into 2G ethanol production, which is an emerging opportunity. The speaker also believes that crude oil demand will not immediately disappear due to electric vehicles; it will take a considerable amount of time, providing continued relevance."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Downstream company impacted by rising crude oil prices squeezing profit margins, though cushioned partially by prior excise duty reductions and potential policy interventions."
+      }
+    ]
+  },
+  {
+    "key": "UNIONBANK",
+    "ticker": "UNIONBANK",
+    "company": "Union Bank of India",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava",
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Sai Krishna Patri"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Positive",
+      "Sai Krishna Patri": "Negative"
+    },
+    "avg_return": 375.06,
+    "avg_alpha": 333.29,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Demonstrated massive rally as part of the public sector bank turnaround trend."
+      },
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Discussed in the context of the bad bank framework (NARCL and IDRCL) where public sector banks like Union Bank are expected to recover significant amounts from bad loans and improve liquidity and asset quality."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "Union Bank of India, along with other public sector banks, is considered very risky due to NPA (Non-Performing Assets) problems. Despite low valuations, the speaker advises avoiding investment in these banks."
+      }
+    ]
+  },
+  {
+    "key": "HDBFS",
+    "ticker": "HDBFS",
+    "company": "HDB Financial Services",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "Akshay Srivastava",
+      "Sai Krishna Patri"
+    ],
+    "bears": [
+      "CA Rachana Ranade",
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Negative",
+      "Pranjal Kamra": "Negative",
+      "Sai Krishna Patri": "Positive"
+    },
+    "avg_return": -33.25,
+    "avg_alpha": -39.83,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "An unlisted subsidiary backed by HDFC Bank Group. Benefit of investing in the unlisted space includes more sensible valuations prior to public market hype, high brand trust, clean promoter pedigree, and a clear path toward a future IPO."
+      },
+      {
+        "analyst": "Sai Krishna Patri",
+        "catalysts": "The speaker indicates he is personally holding this stock, specifically mentioning it as a 'pre-IPO stock'. The act of holding a pre-IPO stock suggests an expectation of future growth and value appreciation upon its eventual public listing. No specific business catalysts, financial metrics, or sector tailwinds were detailed beyond its pre-IPO status."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "The IPO is coming at a heavy discount of 40-45% to the unlisted price (IPO price band 700-740 vs unlisted price 1200-1350). Key risks include: promoter ownership reduction risk if the RBI draft circular is implemented (HDFC Bank may need to reduce holding from 94% to under 20%), rising GNPA (from 1.9% to 2.26%) and NNPA (from 0.63% to 0.99%), rising stage three loans, high unsecured loan portfolio at around 27%, and valuations (P/B at 3.72 and P/E at 28.15) higher than industry averages. Majority of the issue size (10,000 crores out of 12,500 crores) is an Offer For Sale (OFS) going to the promoter HDFC Bank rather than fresh capital for the company."
+      },
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "The speaker used HDB Financial Services as an example to illustrate the risks of investing in unlisted/pre-IPO stocks. He highlighted that despite being part of the reputable HDFC Group, its eventual listing price was at a significant 30-40% discount to the price at which it was trading in the pre-IPO market. This was used to demonstrate the lack of transparent price discovery and the potential for investors to lose money when buying unlisted shares based on inflated prices offered by unofficial platforms."
+      }
+    ]
+  },
+  {
+    "key": "META",
+    "ticker": "META",
+    "company": "Meta Platforms",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "Pranjal Kamra": "Negative"
+    },
+    "avg_return": 37.83,
+    "avg_alpha": 39.25,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Part of US hyperscalers and data center building companies. Strong fundamentals, benefiting from AI build-out, though subject to short-term market volatility and dips which provide buying opportunities."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Business model dependent on gathering and monetizing user data, leading to manipulation and division through personalized content feeds. Platforms profit from increased user engagement via ads and promoted posts. They are particularly responsible for not curbing fake IDs and scams for revenue, despite having the technology to do so."
+      }
+    ]
+  },
+  {
+    "key": "OIL",
+    "ticker": "OIL",
+    "company": "Oil India",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Akshay Srivastava"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Negative",
+      "CA Rachana Ranade": "Positive"
+    },
+    "avg_return": -3.27,
+    "avg_alpha": 0.02,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Upstream company benefiting directly from rising crude oil and natural gas prices. Every $10 rise in crude oil prices adds approximately 2,200 crores to its EBITDA. Beneficiary of government royalty rate reductions and the hydrocarbon exploration and licensing policy (HELP). Shows strong technical indicators like a volatility contraction pattern (VCP)."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Traditional public sector units (PSUs) in infrastructure and heavy segments face headwinds as government shifts focus away from heavy public capex."
+      }
+    ]
+  },
+  {
+    "key": "SWSOLAR",
+    "ticker": "SWSOLAR",
+    "company": "Sterling and Wilson Renewable Energy",
+    "sector": "Power & Renewables",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Negative"
+    },
+    "avg_return": -56.18,
+    "avg_alpha": -52.77,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Green energy and EPC (Engineering, Procurement, Construction) themes are well-positioned as India reduces conventional energy dependence and builds out renewable infrastructure."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Stock price is down by 63% compared to November 2024. Impacted by broader industry problems including supply glut, price wars, execution issues, and margin pressures in the solar value chain."
+      }
+    ]
+  },
+  {
+    "key": "DELTACORP",
+    "ticker": "DELTACORP",
+    "company": "Delta Corp",
+    "sector": "Industrial & Diversified",
+    "bulls": [
+      "Akshay Srivastava"
+    ],
+    "bears": [
+      "CA Rachana Ranade"
+    ],
+    "stances": {
+      "Akshay Srivastava": "Positive",
+      "CA Rachana Ranade": "Negative"
+    },
+    "avg_return": -40.61,
+    "avg_alpha": -51.73,
+    "bull_thesis": [
+      {
+        "analyst": "Akshay Srivastava",
+        "catalysts": "Solid business with very high operating profit margins; massive land acquisition around Mumbai airport to potentially create a mini sin city. However, regulatory risk materialized via GST notices."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Online gaming, casinos, and betting shifted to a 40% GST tax rate, heavily impacting profitability."
+      }
+    ]
+  },
+  {
+    "key": "IDBI",
+    "ticker": "IDBI",
+    "company": "IDBI Bank",
+    "sector": "Banking & Financials",
+    "bulls": [
+      "CA Rachana Ranade"
+    ],
+    "bears": [
+      "Pranjal Kamra"
+    ],
+    "stances": {
+      "CA Rachana Ranade": "Positive",
+      "Pranjal Kamra": "Negative"
+    },
+    "avg_return": 95.35,
+    "avg_alpha": 59.75,
+    "bull_thesis": [
+      {
+        "analyst": "CA Rachana Ranade",
+        "catalysts": "Highlighted as a major public sector bank with a significant portion of non-performing loans relative to total loans, poised to benefit from bad loan transfers to the newly formed bad bank structure."
+      }
+    ],
+    "bear_thesis": [
+      {
+        "analyst": "Pranjal Kamra",
+        "catalysts": "Mentioned as an example of a struggling bank where the government previously forced LIC to intervene and invest/bail them out, which negatively impacts insurance company shareholders."
+      }
+    ]
+  }
+]
